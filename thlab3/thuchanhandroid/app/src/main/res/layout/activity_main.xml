@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/soA"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="Số A: " />
+
+    <EditText
+        android:id="@+id/edittext1"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/soA" />
+
+    <TextView
+        android:id="@+id/soB"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/soA"
+        android:layout_margin="20dp"
+        android:text="Số B: " />
+
+    <EditText
+        android:id="@+id/edittext2"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/soB"
+        android:layout_toRightOf="@+id/soB" />
+
+    <Button
+        android:id="@+id/kq"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_below="@+id/soB"
+        android:layout_marginStart="10dp"
+        android:layout_marginEnd="10dp"
+        android:background="#2957FF"
+        android:padding="0dp"
+        android:paddingStart="10dp"
+        android:text="4"
+        android:textAlignment="textStart" />
+
+    <Button
+        android:id="@+id/tong"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/kq"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="tong"
+        android:text="Tổng 2 số " />
+
+    <Button
+        android:id="@+id/hieu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/tong"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="hieu"
+        android:text="hiệu 2 số" />
+
+    <Button
+        android:id="@+id/tich"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/hieu"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="tich"
+        android:text="tích 2 số" />
+
+    <Button
+        android:id="@+id/thuong"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/tich"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="thuong"
+        android:text="thương 2 số" />
+
+    <Button
+        android:id="@+id/ucln"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/thuong"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="ucln"
+        android:text="ước chung lớn nhất" />
+
+    <Button
+        android:id="@+id/thoat"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_below="@+id/ucln"
+        android:layout_marginStart="15dp"
+        android:layout_marginEnd="15dp"
+        android:onClick="thoat"
+        android:text="thoát chương trình" />
+</RelativeLayout>

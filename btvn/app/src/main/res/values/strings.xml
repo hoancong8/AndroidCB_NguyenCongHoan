@@ -1,3 +1,82 @@
 <resources>
     <string name="app_name">btvn</string>
+    <string-array name="my_string_list">
+        <item>Công sở </item>
+        <item>Cười 18</item>
+        <item>Cực hài</item>
+        <item>Dân gian</item>
+        <item>Gia đình</item>
+        <item>Giao thông</item>
+        <item>Học sinh</item>
+    </string-array>
+    <string-array name="office_joke">
+        <item>office_joke_1</item>
+        <item>office_joke_2</item>
+        <item>office_joke_3</item>
+        <item>office_joke_4</item>
+        <item>office_joke_5</item>
+        <item>office_joke_6</item>
+        <item>office_joke_7</item>
+        <item>office_joke_8</item>
+        <item>office_joke_9</item>
+        <item>office_joke_10</item>
+    </string-array>
+    <string-array name="office_jokes">
+        <item>Tại sao các nhân viên văn phòng không bao giờ chơi trốn tìm? Bởi vì ai cũng sẽ nói "Tôi đang bận!"</item>
+        <item>Sếp hỏi nhân viên: "Nếu tôi cho bạn một triệu đồng để nghỉ việc, bạn sẽ làm gì?" Nhân viên đáp: "Sẽ viết đơn ngay!"</item>
+        <item>Hai nhân viên nói chuyện: "Bạn có biết làm thế nào để đuổi kịp deadline không?" "Đơn giản, hãy đi chậm lại!"</item>
+        <item>Tại sao máy photocopy lại buồn? Bởi vì nó luôn cảm thấy bị sao chép!</item>
+        <item>Nhân viên: "Sếp ơi, tôi muốn xin nghỉ phép." Sếp: "Tốt! Tôi cũng vậy, chúng ta cùng đi chơi!"</item>
+        <item>Một nhân viên nói với đồng nghiệp: "Tôi vừa mua một chiếc bàn mới!" Đồng nghiệp: "Và bạn sẽ không phải làm việc nữa?"</item>
+        <item>Sếp hỏi nhân viên: "Bạn có cần hỗ trợ gì không?" Nhân viên: "Chỉ cần cho tôi một tách cà phê!"</item>
+        <item>Một nhân viên đến văn phòng muộn. Sếp hỏi: "Sao lại muộn?" Nhân viên: "Tôi đang cứu một chiếc xe bus!"</item>
+        <item>Sếp nói: "Hãy đặt công việc lên hàng đầu!" Nhân viên đáp: "Nếu vậy, tôi sẽ phải nghỉ làm ngay!"</item>
+        <item>Tại sao không nên kết hôn với đồng nghiệp? Bởi vì bạn sẽ phải viết một báo cáo cho cuộc sống hôn nhân!</item>
+    </string-array>
+
+
+    <string-array name="funny_stories">
+        <item>- Tại sao quả táo lại rơi xuống đất?
+          - Vì nó không biết bay!</item>
+        <item>- Con gì đầu dê mình ốc?
+          - Con dê bị ốc sên đè.</item>
+        <item>- Con mèo rất hay khoe gì?
+          - Mèo khoe mướp.</item>
+        <item>- Vì sao cá không bao giờ đánh nhau?
+          - Vì nó sợ bị… nấu chín!</item>
+        <item>- Mỗi năm có bao nhiêu ngày không làm việc?
+          - 365 ngày, vì mỗi ngày đều có 24 giờ chơi.</item>
+        <item>- Tại sao cốc nước lại chạy?
+          - Vì có chân cốc!</item>
+        <item>- Con gì luôn đúng?
+          - Con đúng quá!</item>
+        <item>- Tại sao điện thoại không bao giờ lạnh?
+          - Vì luôn có sóng!</item>
+        <item>- Xe nào chạy bằng chân?
+          - Xe đạp.</item>
+        <item>- Người đàn ông nào luôn bận rộn?
+          - Ông đang bận!</item>
+        <item>- Mùa hè có gì đặc biệt?
+          - Không có mùa đông!</item>
+        <item>- Làm thế nào để dừng đồng hồ?
+          - Tháo pin!</item>
+        <item>- Tại sao máy tính hay nóng?
+          - Vì có CPU!</item>
+        <item>- Con gì khó chịu nhất?
+          - Con kiến.</item>
+        <item>- Trứng nào bé nhất?
+          - Trứng kiến!</item>
+        <item>- Con gì không biết nói mà luôn "nói"?
+          - Con điếm.</item>
+        <item>- Tại sao núi lửa không bao giờ bị cháy?
+          - Vì núi lửa đã cháy rồi!</item>
+        <item>- Sông nào không bao giờ chảy?
+          - Sông đã cạn!</item>
+        <item>- Cái gì càng rửa càng bẩn?
+          - Cái giẻ lau.</item>
+        <item>- Cái gì không thể ăn vào bữa sáng?
+          - Bữa trưa và bữa tối!</item>
+    </string-array>
+
+
 </resources>
