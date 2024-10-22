@@ -140,7 +140,6 @@ public class MainActivity2 extends AppCompatActivity implements InterfaceOnClick
     }
 
 
-
     @Override
     public void iOnClickItem2(String ten, String noidung) {
         Intent intent = new Intent(this, MainActivity3.class);
